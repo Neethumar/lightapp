@@ -1,0 +1,20 @@
+.Light1{
+  width: 120px;
+  height: 200px;
+  box-shadow: rgba(6px, 0, 0, 6px);
+}
+
+button{
+    padding: 10px;
+    border-radius: 20%;
+    background-color:silver;
+    color: white;
+    margin-left: 32%;
+    margin-top: 5%;
+}
+
+button:hover{
+    background-color: black;
+    color: yellow;
+}
+
